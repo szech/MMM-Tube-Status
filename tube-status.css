@@ -26,8 +26,8 @@
 }
 
 .allLines {
-    color: #000000;
-    background-color: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #000000;
 }
 
 .bakerloo {
@@ -72,4 +72,12 @@
 
 .waterloo-city {
     background-color: #95CDBA;
+}
+
+.london-overground {
+	background-color: #EF7B10;
+}
+
+.dlr {
+	background-color: #00AFAD;
 }

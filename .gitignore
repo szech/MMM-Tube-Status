@@ -39,3 +39,7 @@ jspm_packages/
 # Apple network share
 .AppleDouble/
 .DS_Store
+
+# Eclipse
+.settings/*
+.project
